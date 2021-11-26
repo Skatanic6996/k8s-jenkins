@@ -1,7 +1,7 @@
 # jenkins
 
 
-eplace all "exapmle" values
+Replace all "exapmle" values
 
 ServiceAccount -> Volume -> Deployment -> Service -> Ingress -> Default Jenkins Settings
 
